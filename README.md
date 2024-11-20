@@ -114,12 +114,3 @@ Jika ada pertanyaan atau masalah, Anda dapat menghubungi:
 - **Email**: [mail@farhanmaulana.me](mailto:mail@farhanmaulana.me)
 - **GitHub**: [https://github.com/aleaengineer](https://github.com/aleaengineer)
 ```
-
----
-
-### **Penyesuaian**
-- Ganti `username` dengan nama pengguna GitHub Anda.
-- Ganti `namaemail@domain.com` dengan email Anda.
-- Jika ada fitur tambahan atau perubahan, jangan lupa menyesuaikan bagian dokumentasi fitur dan instalasi.
-
-Semoga ini membantu untuk dokumentasi GitHub Anda! 🚀
