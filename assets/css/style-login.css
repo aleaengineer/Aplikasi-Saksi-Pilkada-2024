@@ -1,0 +1,37 @@
+body {
+    background-image: url('/assets/img/bg-1.png');
+    background-size: cover;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.card {
+    width: 80vh;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 0.5;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: #ffff;
+    color: #0000;
+}
+
+p {
+    color: #ffffff;
+}
+.caption {
+    text-decoration: none;
+    color: #198754;
+}
+
+footer {
+    color: #ffff;
+    margin-top: auto;
+    font-size: small;
+    font-weight: 200;
+}
